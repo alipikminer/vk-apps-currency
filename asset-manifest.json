@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/vk-apps-currency/static/css/main.d828c23a.chunk.css",
-    "main.js": "/vk-apps-currency/static/js/main.752c4580.chunk.js",
-    "main.js.map": "/vk-apps-currency/static/js/main.752c4580.chunk.js.map",
+    "main.css": "/vk-apps-currency/static/css/main.936391f1.chunk.css",
+    "main.js": "/vk-apps-currency/static/js/main.c3aeb653.chunk.js",
+    "main.js.map": "/vk-apps-currency/static/js/main.c3aeb653.chunk.js.map",
     "runtime-main.js": "/vk-apps-currency/static/js/runtime-main.c4deca24.js",
     "runtime-main.js.map": "/vk-apps-currency/static/js/runtime-main.c4deca24.js.map",
     "static/css/2.86df01db.chunk.css": "/vk-apps-currency/static/css/2.86df01db.chunk.css",
-    "static/js/2.07924208.chunk.js": "/vk-apps-currency/static/js/2.07924208.chunk.js",
-    "static/js/2.07924208.chunk.js.map": "/vk-apps-currency/static/js/2.07924208.chunk.js.map",
+    "static/js/2.c59c670e.chunk.js": "/vk-apps-currency/static/js/2.c59c670e.chunk.js",
+    "static/js/2.c59c670e.chunk.js.map": "/vk-apps-currency/static/js/2.c59c670e.chunk.js.map",
     "index.html": "/vk-apps-currency/index.html",
-    "precache-manifest.95c5f5d203d65aca373716e622be71d6.js": "/vk-apps-currency/precache-manifest.95c5f5d203d65aca373716e622be71d6.js",
+    "precache-manifest.c22c33989aef440b90f9d4eadb92ea4b.js": "/vk-apps-currency/precache-manifest.c22c33989aef440b90f9d4eadb92ea4b.js",
     "service-worker.js": "/vk-apps-currency/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/vk-apps-currency/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.d828c23a.chunk.css.map": "/vk-apps-currency/static/css/main.d828c23a.chunk.css.map",
-    "static/js/2.07924208.chunk.js.LICENSE.txt": "/vk-apps-currency/static/js/2.07924208.chunk.js.LICENSE.txt",
+    "static/css/main.936391f1.chunk.css.map": "/vk-apps-currency/static/css/main.936391f1.chunk.css.map",
+    "static/js/2.c59c670e.chunk.js.LICENSE.txt": "/vk-apps-currency/static/js/2.c59c670e.chunk.js.LICENSE.txt",
+    "static/media/all_persiks.png": "/vk-apps-currency/static/media/all_persiks.5013353b.png",
     "static/media/persik.png": "/vk-apps-currency/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4deca24.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.07924208.chunk.js",
-    "static/css/main.d828c23a.chunk.css",
-    "static/js/main.752c4580.chunk.js"
+    "static/js/2.c59c670e.chunk.js",
+    "static/css/main.936391f1.chunk.css",
+    "static/js/main.c3aeb653.chunk.js"
   ]
 }
