@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6350df0eb1d0cfd535bf24060d910561",
+    "revision": "d2c7591e81b6a2b7a015f900ecc1f897",
     "url": "/vk-apps-currency/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-apps-currency/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "58690252bc075a46dcf5",
-    "url": "/vk-apps-currency/static/css/main.3ac9ad7d.chunk.css"
+    "revision": "9108520ca424df35dcaf",
+    "url": "/vk-apps-currency/static/css/main.d828c23a.chunk.css"
   },
   {
     "revision": "0844e676a1fee0a56b26",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-apps-currency/static/js/2.07924208.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58690252bc075a46dcf5",
+    "revision": "9108520ca424df35dcaf",
     "url": "/vk-apps-currency/static/js/main.752c4580.chunk.js"
   },
   {
